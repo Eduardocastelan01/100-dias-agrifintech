@@ -14,4 +14,4 @@ de Avik Jain, adaptado al contexto Agri-Fintech mexicano.
 
 | Día | Tema | Aplicación | Notebook |
 |-----|------|-----------|---------|
-| 01 | Funciones en Python | Cálculo de rentabilidad agrícola | [Ver](./dia_01/) |
+| 01 | Funciones en Python | Reporte de arrendamientos empresa familiar | [Ver](./semana_01/dia_01/) |
